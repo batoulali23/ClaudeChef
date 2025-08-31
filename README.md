@@ -26,3 +26,4 @@ This project simulates a virtual kitchen experience where users can explore reci
 To run the project locally:
 
 ```bash
+git clone https://github.com/batoulali23/ClaudeChef
